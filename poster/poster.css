@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #29519c;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #2d5c77;
+    font-size: 4.5em;
+    margin-top: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h2 {
+    
+    font-family: 'Oswald', sans-serif;
+    color: #34495e;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+h2:hover{
+
+color: darkgreen;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+h3 {
+    color: #2e4761;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+img {
+    border: 5px solid #2c3e50;
+    border-radius: 10px;
+    margin: 20px 0;
+    transition: transform 0.3s ease;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #3496d8;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #1a5276;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+
